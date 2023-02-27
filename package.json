@@ -6,9 +6,17 @@
     "engines": {
         "vscode": "^1.75.0"
     },
+    "author": {
+        "name": "Buntn-Catalina"
+    },
+    "icon": "./icon.png",
     "categories": [
         "Extension Packs"
     ],
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
     "extensionPack": [
         "alexdima.copy-relative-path",
         "christian-kohler.path-intellisense",
