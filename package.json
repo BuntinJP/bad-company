@@ -9,10 +9,11 @@
     "author": {
         "name": "Buntn-Catalina"
     },
-    "icon": "./icon.png",
+    "icon": "icon.png",
     "categories": [
         "Extension Packs"
     ],
+    "publisher": "Buntin",
     "galleryBanner": {
         "color": "#C80000",
         "theme": "dark"
@@ -49,5 +50,8 @@
         "VisualStudioExptTeam.vscodeintellicode",
         "wayou.vscode-todo-highlight",
         "xabikos.JavaScriptSnippets"
-    ]
+    ],
+    "devDependencies": {
+        "vsce": "^2.15.0"
+    }
 }
