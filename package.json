@@ -1,0 +1,45 @@
+{
+  "name": "bad-company",
+  "displayName": "Bad_Company",
+  "description": "Wonderful extensions created by God!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "alexdima.copy-relative-path", 
+    "christian-kohler.path-intellisense", 
+    "dbaeumer.vscode-eslint", 
+    "EliverLara.andromeda", 
+    "esbenp.prettier-vscode", 
+    "formulahendry.code-runner", 
+    "GitHub.copilot", 
+    "helgardrichard.helium-icon-theme", 
+    "mohsen1.prettify-json", 
+    "MS-CEINTL.vscode-language-pack-ja", 
+    "ms-python.isort", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance", 
+    "ms-toolsai.jupyter", 
+    "ms-toolsai.jupyter-keymap", 
+    "ms-toolsai.jupyter-renderers", 
+    "ms-toolsai.vscode-jupyter-cell-tags", 
+    "ms-toolsai.vscode-jupyter-slideshow", 
+    "ms-vscode.vscode-typescript-next", 
+    "naumovs.color-highlight", 
+    "oderwat.indent-rainbow", 
+    "redhat.java", 
+    "redhat.vscode-xml", 
+    "redhat.vscode-yaml", 
+    "shiro.basicpack", 
+    "softwareape.numbermonger", 
+    "usernamehw.errorlens", 
+    "VisualStudioExptTeam.intellicode-api-usage-examples", 
+    "VisualStudioExptTeam.vscodeintellicode", 
+    "wayou.vscode-todo-highlight", 
+    "xabikos.JavaScriptSnippets"
+  ]
+}
