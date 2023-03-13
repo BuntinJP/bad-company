@@ -49,7 +49,14 @@
         "VisualStudioExptTeam.intellicode-api-usage-examples",
         "VisualStudioExptTeam.vscodeintellicode",
         "wayou.vscode-todo-highlight",
-        "xabikos.JavaScriptSnippets"
+        "xabikos.JavaScriptSnippets",
+        "fabiospampinato.vscode-commands",
+        "crystal-lang-tools.crystal-lang",
+        "golang.go",
+        "ritwickdey.liveserver",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode.remote-explorer"
     ],
     "devDependencies": {
         "vsce": "^2.15.0"
