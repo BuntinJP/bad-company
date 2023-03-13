@@ -56,7 +56,8 @@
         "ritwickdey.liveserver",
         "ms-vscode-remote.remote-ssh",
         "ms-vscode-remote.remote-ssh-edit",
-        "ms-vscode.remote-explorer"
+        "ms-vscode.remote-explorer",
+        "rust-lang.rust-analyzer"
     ],
     "devDependencies": {
         "vsce": "^2.15.0"
