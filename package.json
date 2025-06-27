@@ -1,8 +1,12 @@
 {
   "name": "bad-company",
-  "displayName": "Bad_Company",
+  "displayName": "Bad Company",
   "description": "Wonderful extensions created by God!",
-  "version": "1.1.0",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BuntinJP/bad-company.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -19,28 +23,28 @@
     "theme": "dark"
   },
   "extensionPack": [
-    "ms-vscode.vscode-typescript-next",
-    "oven.bun-vscode",
-    "shakram02.bash-beautify",
-    "ms-dotnettools.csharp",
-    "ms-dotnettools.csdevkit",
-    "mhutchie.git-graph",
-    "ms-vscode.cpptools-extension-pack",
-    "streetsidesoftware.code-spell-checker",
-    "tamasfe.even-better-toml",
     "GitHub.copilot",
     "GitHub.copilot-chat",
-    "oderwat.indent-rainbow",
-    "ms-toolsai.jupyter",
-    "christian-kohler.npm-intellisense",
-    "esbenp.prettier-vscode",
+    "google.geminicodeassist",
+    "anthropic.claude-code",
+    "saoudrizwan.claude-dev",
+    "catppuccin.catppuccin-vsc",
+    "thang-nm.catppuccin-perfect-icons",
+    "eliverlara.andromeda",
+    "ms-vscode.vscode-typescript-next",
+    "oven.bun-vscode",
+    "denoland.vscode-deno",
+    "biomejs.biome",
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-python.debugpy",
+    "ms-python.autopep8",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
+    "mkhl.shfmt",
+    "mhutchie.git-graph",
     "mosapride.zenkaku",
-    "ms-python.autopep8"
+    "tomoki1207.pdf"
   ],
   "devDependencies": {
     "vsce": "^2.15.0"
