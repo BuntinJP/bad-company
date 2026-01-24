@@ -2,7 +2,7 @@
   "name": "bad-company",
   "displayName": "Bad Company",
   "description": "Wonderful extensions created by God!",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/BuntinJP/bad-company.git"
@@ -50,7 +50,6 @@
     "mosapride.zenkaku",
     "tomoki1207.pdf",
     "editorconfig.editorconfig",
-    "ms-azuretools.vscode-docker",
     "unifiedjs.vscode-mdx",
     "tailscale.vscode-tailscale"
   ],
