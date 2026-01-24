@@ -38,5 +38,12 @@ This extension pack includes the following extensions:
 - **Utilities:**
   - [Zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)
   - [PDF Viewer](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+- **Configuration:**
+  - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
+- **DevOps & Infrastructure:**
+  - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+  - [Tailscale](https://marketplace.visualstudio.com/items?itemName=tailscale.vscode-tailscale)
+- **Review:**
+  - [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 
 **Enjoy!**

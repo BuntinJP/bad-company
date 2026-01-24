@@ -2,7 +2,7 @@
   "name": "bad-company",
   "displayName": "Bad Company",
   "description": "Wonderful extensions created by God!",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/BuntinJP/bad-company.git"
@@ -44,7 +44,11 @@
     "mkhl.shfmt",
     "mhutchie.git-graph",
     "mosapride.zenkaku",
-    "tomoki1207.pdf"
+    "tomoki1207.pdf",
+    "editorconfig.editorconfig",
+    "ms-azuretools.vscode-docker",
+    "unifiedjs.vscode-mdx",
+    "tailscale.vscode-tailscale"
   ],
   "devDependencies": {
     "vsce": "^2.15.0"
