@@ -55,7 +55,6 @@
     "tailscale.vscode-tailscale"
   ],
   "devDependencies": {
-    "prettier": "^3.8.1",
     "vsce": "^2.15.0"
   }
 }
