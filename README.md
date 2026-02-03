@@ -24,6 +24,7 @@ This extension pack includes the following extensions:
   - [Bun for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode)
   - [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)
   - [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - **Python:**
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)

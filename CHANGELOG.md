@@ -4,6 +4,10 @@ This is Bad Company. A VSCode Extension Pack for me.
 
 ## [Unreleased]
 
+## [2.1.3] 2026/01/25
+### Added
+- `esbenp.prettier-vscode` (Added by Jules)
+
 ## [2.1.2] 2026/01/25
 ### Removed
 - `ms-azuretools.vscode-docker`
