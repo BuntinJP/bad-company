@@ -4,6 +4,14 @@ This is Bad Company. A VSCode Extension Pack for me.
 
 ## [Unreleased]
 
+## [2.2.0] 2026/02/25
+### Added
+- `GitHub.vscode-github-actions` (Added by Jules)
+- `meta.pyrefly` (Added by Jules)
+
+### Removed
+- `ms-vscode.vscode-typescript-next` (Removed by Jules)
+
 ## [2.1.5] 2026/02/25
 ### Changed
 - `AGENTS.md` に CHANGELOG の実行主体記載ルールを追加 `(Updated by Codex)`
