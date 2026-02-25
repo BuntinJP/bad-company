@@ -4,6 +4,15 @@ This is Bad Company. A VSCode Extension Pack for me.
 
 ## [Unreleased]
 
+## [2.1.4] 2026/02/25
+### Added
+- `AGENTS.md` を追加し、AIエージェント向けの運用ルールを明文化
+
+### Changed
+- GitHub Actions `publish.yml` の Bun バージョンを `1.3.9` に固定
+- CIの依存インストールを `bun install --frozen-lockfile` に変更
+- Publish workflow に `concurrency` を追加し、同時実行競合を防止
+
 ## [2.1.3] 2026/01/25
 ### Added
 - `esbenp.prettier-vscode` (Added by Jules)
