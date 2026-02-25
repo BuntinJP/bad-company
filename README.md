@@ -20,12 +20,12 @@ This extension pack includes the following extensions:
   - [Catppuccin Perfect Icons](https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons)
   - [Andromeda](https://marketplace.visualstudio.com/items?itemName=eliverlara.andromeda)
 - **TypeScript/JavaScript:**
-  - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
   - [Bun for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode)
   - [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)
   - [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - **Python:**
+  - [Pyrefly](https://marketplace.visualstudio.com/items?itemName=meta.pyrefly)
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
   - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
@@ -44,6 +44,7 @@ This extension pack includes the following extensions:
   - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 - **DevOps & Infrastructure:**
   - [Tailscale](https://marketplace.visualstudio.com/items?itemName=tailscale.vscode-tailscale)
+  - [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - **Review:**
   - [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 
