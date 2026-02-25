@@ -4,6 +4,10 @@ This is Bad Company. A VSCode Extension Pack for me.
 
 ## [Unreleased]
 
+## [2.1.5] 2026/02/25
+### Changed
+- `AGENTS.md` に CHANGELOG の実行主体記載ルールを追加 `(Updated by Codex)`
+
 ## [2.1.4] 2026/02/25
 ### Added
 - `AGENTS.md` を追加し、AIエージェント向けの運用ルールを明文化

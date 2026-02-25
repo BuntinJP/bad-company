@@ -22,6 +22,12 @@ Julesがこのリポジトリで作業を行う際は、以下のルールと手
 ## 4. CHANGELOG.mdの更新
 - プロジェクトに変更を加えた際は、必ず `CHANGELOG.md` を最新の状態に更新してください。
 - 更新したバージョン番号、日付、および具体的な変更内容（追加・削除・修正した拡張機能など）を他のリリースノートの形式に沿って記載してください。
+- すべての変更行には、**どの実行主体が行った変更か**を明記してください（エージェント運用の追跡性確保のため）。
+- 記載形式は原則 `(<Action> by <AgentName>)` とし、以下を推奨します。
+  - `Jules` を使った変更: `(Added by Jules)` / `(Updated by Jules)` / `(Removed by Jules)`
+  - `Codex` を使った変更: `(Added by Codex)` / `(Updated by Codex)` / `(Removed by Codex)`
+  - `Claude` を使った変更: `(Added by Claude)` / `(Updated by Claude)` / `(Removed by Claude)`
+- 人手での変更は `(Updated by Human)` のように記載してください。
 
 ## 5. README.mdの同期と更新
 - `package.json` の `"extensionPack"` に追加・変更があった場合、**必ず `README.md` の記述も更新** してください。
