@@ -34,6 +34,7 @@ This extension pack includes the following extensions:
 - **Other Languages:**
   - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+  - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 - **Shell:**
   - [shfmt](https://marketplace.visualstudio.com/items?itemName=mkhl.shfmt)
 - **Git:**
@@ -41,6 +42,7 @@ This extension pack includes the following extensions:
 - **Utilities:**
   - [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)
   - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+  - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - **Configuration:**
   - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 - **DevOps & Infrastructure:**

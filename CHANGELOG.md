@@ -4,9 +4,11 @@ This is Bad Company. A VSCode Extension Pack for me.
 
 ## [Unreleased]
 
-## [2.3.0] 2026/02/25
+## [2.3.0] 2026/03/22
 ### Added
 - `google.gemini-cli-vscode-ide-companion` (Added by Jules)
+- `mechatroner.rainbow-csv` (Added by Jules)
+- `tamasfe.even-better-toml` (Added by Jules)
 
 ## [2.2.0] 2026/02/25
 ### Added

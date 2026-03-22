@@ -56,7 +56,9 @@
     "tailscale.vscode-tailscale",
     "GitHub.vscode-github-actions",
     "meta.pyrefly",
-    "google.gemini-cli-vscode-ide-companion"
+    "google.gemini-cli-vscode-ide-companion",
+    "mechatroner.rainbow-csv",
+    "tamasfe.even-better-toml"
   ],
   "devDependencies": {
     "vsce": "^2.15.0"
