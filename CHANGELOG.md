@@ -4,6 +4,10 @@ This is Bad Company. A VSCode Extension Pack for me.
 
 ## [Unreleased]
 
+## [2.3.0] 2026/02/25
+### Added
+- `google.gemini-cli-vscode-ide-companion` (Added by Jules)
+
 ## [2.2.0] 2026/02/25
 ### Added
 - `GitHub.vscode-github-actions` (Added by Jules)

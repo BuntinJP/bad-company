@@ -15,6 +15,7 @@ This extension pack includes the following extensions:
   - [Gemini Code Assist](https://marketplace.visualstudio.com/items?itemName=google.geminicodeassist)
   - [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
   - [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
+  - [Gemini CLI Companion](https://marketplace.visualstudio.com/items?itemName=google.gemini-cli-vscode-ide-companion)
 - **Themes:**
   - [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=catppuccin.catppuccin-vsc)
   - [Catppuccin Perfect Icons](https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons)
